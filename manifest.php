@@ -5,16 +5,12 @@ RDME;
 
 
 $manifest = array (
-	0 => array (
-		'acceptable_sugar_versions' => 	array ( ),
-	),
-	1 => array (
-		'acceptable_sugar_flavors' => array (
-			0 => 'CE',
-			1 => 'PRO',
-			2 => 'ENT',
-		),
-	),
+    'acceptable_sugar_versions' => 	array ( ),
+    'acceptable_sugar_flavors' => array (
+	0 => 'CE',
+	1 => 'PRO',
+	2 => 'ENT',
+    ),
     'readme' => $README,
 	'key' => '',
 	'author' => 'nlv',
