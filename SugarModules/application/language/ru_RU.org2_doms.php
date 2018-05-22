@@ -232,3 +232,9 @@ $app_list_strings['dioces_by_metropolises_dom'] = array (
 	],
 );
 
+$app_list_strings['contacts_tags_dom'] = [
+	'' => '',
+	'prolife_active'         => 'Актив "За жизнь!"',
+	'volonteers_prolife'     => 'Волонтеры "За жизнь!"',
+	'interested_royal_theme' => 'Интерес Царская тема',
+];
