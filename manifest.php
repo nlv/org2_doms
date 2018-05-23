@@ -20,7 +20,7 @@ $manifest = array (
 	'name' => 'org2_doms',
 	'published_date' => '2018-05-23',
 	'type' => 'module',
-	'version' => '1.3.0',
+	'version' => '1.3.1',
   'dependencies' => array(
   ),
 	'remove_tables' => 'prompt',
@@ -35,7 +35,7 @@ $installdefs = array (
   'language' => 
   array (
     array (
-      'from' => '<basepath>/SugarModules/application/language/ru_RU.lang.php',
+      'from' => '<basepath>/SugarModules/application/language/ru_RU.org2_doms.php',
       'to_module' => 'application',
       'language' => 'ru_RU',
     ),  
