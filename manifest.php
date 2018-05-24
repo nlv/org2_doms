@@ -20,7 +20,7 @@ $manifest = array (
 	'name' => 'org2_doms',
 	'published_date' => '2018-05-23',
 	'type' => 'module',
-	'version' => '1.3.1',
+	'version' => '1.4.0',
   'dependencies' => array(
   ),
 	'remove_tables' => 'prompt',
