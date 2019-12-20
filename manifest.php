@@ -18,9 +18,9 @@ $manifest = array (
 	'icon' => '',
 	'is_uninstallable' => true,
 	'name' => 'org2_doms',
-	'published_date' => '2018-05-23',
+	'published_date' => '2019-07-27',
 	'type' => 'module',
-	'version' => '1.4.1',
+	'version' => '1.4.2',
   'dependencies' => array(
   ),
 	'remove_tables' => 'prompt',
